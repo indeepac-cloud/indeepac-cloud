@@ -8,9 +8,9 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Anuk Cooray" /></p>
 
-- 🌱 I’m currently learning Web Development and other programming languages
-- 📫 How to reach me **indeepac@gmail.com**
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- 🌱I’m currently learning Web Development and other programming languages
+- 📫How to reach me **indeepac@gmail.com**
+- ⚡Fun fact :- Fun fact: I talk to computers more than people sometimes! 💻😅
   
 <h3 align="left">Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 </h3>
